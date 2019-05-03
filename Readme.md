@@ -3,8 +3,7 @@
 <img
     src="./assets/img/js.jpg"
     alt="js"
-    width="220px"
-    style="margin: 0 auto; display: block;" />
+    width="220px" />
 
 ## Hello, world!
 Привет, меня зовут Артём.
@@ -14,8 +13,4 @@
 ## Javascript
 Этот курс предназначен для тех, кто хочет попробовать свои силы в программировании, и рассчитан для абсолютных новичков.
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme" data-size="large" data-show-count="true" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<iframe src="https://ghbtns.com/github-btn.html?user=MonkeyBuisness&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
